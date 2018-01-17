@@ -1,0 +1,32 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background: url('assets/freedom.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: rgb(40, 40, 40);
+}
+
+h1 {
+  margin: auto;
+  width: 90%;
+  margin-top: 6.5rem;
+  text-align: center;
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 100;
+  line-height: 3.5rem;
+}
+
+p {
+  margin: auto;
+  width: 90%;
+  font-family: 'Crimson Text', serif;
+  margin-top: 3rem;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 100;
+  font-style: italic;
+}
