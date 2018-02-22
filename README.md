@@ -9,6 +9,6 @@ html, css
 [Preview] of the quote page
 My [introduction] page
 
-   [codeberry]: https://codeberry.hu
+   [codeberry]: http://codeberry.hu
    [Preview]: https://tothadi.github.io/simple-quote-page/
    [introduction]: <http://oakdesign.hu/en>
